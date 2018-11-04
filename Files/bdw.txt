@@ -1,0 +1,1 @@
+create table bdw (name varchar(60), pol varchar(60), rise double, weight double, bd date, email varchar(60), login varchar(60), pass varchar(60));
